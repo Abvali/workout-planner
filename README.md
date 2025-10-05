@@ -9,7 +9,7 @@ An application to create workouts based on your available equipment and the musc
 
 ## Demo:
 
-You can find the first version of that project hier: [workout-planner]([https://github.com/jukrams/workout-planner](https://workout-planner-beta-two.vercel.app)).
+You can find the first version of that project hier: [workout-planner]([https://workout-planner-beta-two.vercel.app]).
 
 ## Developed by:
 
